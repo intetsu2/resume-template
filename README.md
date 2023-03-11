@@ -14,7 +14,7 @@ To use this template, simply download the [index.html](./resume/index.html) and 
 To edit the template, you can use any text editor, such as Sublime Text, Atom, or Visual Studio Code. Simply open the [index.html](./resume/index.html) file in your text editor, and edit the content as needed. <span style="color:#FFFF00;">You can change the text, add or remove sections</span>, or modify the styling using the [style.css](./resume/style.css) file.
 
 ### Credits
-This template was created by Paul Ndaboreheye. The profile image used in the template is from [icons8.com](https://icons8.com/).
+This template was created by me [Paul Ndaboreheye](https://github.com/intetsu2). The profile image used in the template is from [icons8.com](https://icons8.com/).
 
 ### License
 This template is released under the [MIT License](./LICENSE). You are free to use, modify, and distribute this template for any purpose, as long as you include the original copyright and license notice in any copies or derivative works.
