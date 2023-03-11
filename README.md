@@ -2,7 +2,7 @@
 This is a simple HTML/CSS resume template that can be used by anyone looking to create a professional-looking resume quickly and easily. The template is fully responsive, meaning it can be viewed on any device, and includes sections for work experience, education, skills, and programming skills.
 
 ### Usage
-To use this template, simply download the [index.html](./resume/index.html) and [style.css](./resume/style.css files, and open [index.html](./resume/index.html) in your preferred web browser. From there, you can edit the content to reflect your own work experience, education, and skills.
+To use this template, simply download the [index.html](./resume/index.html) and [style.css](./resume/style.css) files, and open [index.html](./resume/index.html) in your preferred web browser. From there, you can edit the content to reflect your own work experience, education, and skills.
 
 ### Features
 - **Responsive design**: The template is designed to look great on any device, from desktops to smartphones. <br>
