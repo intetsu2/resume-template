@@ -2,9 +2,11 @@
 This is a simple HTML and CSS resume template that can be used by anyone looking to create a professional resume. The template contains various sections such as work experience, education, skills, and programming skills. 
 
 ### How to Use
-To use this template, simply download the files, or clone this repository and open the index.html file in any html code editor. You can then edit the HTML and CSS files to customize the template to your liking. 
+To use this template, simply download the files, or clone this repository and open the index.html and style.css. You can then edit the HTML and CSS files to customize the template to your liking. 
 
-### Sections Header 
+## Sections 
+
+### Header 
 The header section contains the profile picture, name, job title, and contact information of the user. You can edit this section by replacing the profile picture with your own and updating the name, job title, and contact information. 
 
 ### Work Experience 
