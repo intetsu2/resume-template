@@ -1,25 +1,20 @@
-# Resume Template 
-This is a simple HTML and CSS resume template that can be used by anyone looking to create a professional resume. The template contains various sections such as work experience, education, skills, and programming skills. 
+# Simple Resume Template
+This is a simple HTML/CSS resume template that can be used by anyone looking to create a professional-looking resume quickly and easily. The template is fully responsive, meaning it can be viewed on any device, and includes sections for work experience, education, skills, and programming skills.
 
-### How to Use
-To use this template, simply download the files, or clone this repository and open the index.html and style.css. You can then edit the HTML and CSS files to customize the template to your liking. 
+### Usage
+To use this template, simply download the [index.html](./resume/index.html) and [style.css](./resume/style.css files, and open [index.html](./resume/index.html) in your preferred web browser. From there, you can edit the content to reflect your own work experience, education, and skills.
 
-## Sections 
+### Features
+- **Responsive design**: The template is designed to look great on any device, from desktops to smartphones. <br>
+- **Easy to customize**: The HTML and CSS files are well-organized and easy to edit, so you can quickly tailor the template to your needs. <br>
+- **Sections for work experience, education, skills, and programming skills**: The template includes clearly defined sections for each of these important areas of your resume. <br>
+- **Clean and professional design**: The template features a simple, modern design that will make your resume stand out from the crowd.
 
-### Header 
-The header section contains the profile picture, name, job title, and contact information of the user. You can edit this section by replacing the profile picture with your own and updating the name, job title, and contact information. 
+### How to Edit
+To edit the template, you can use any text editor, such as Sublime Text, Atom, or Visual Studio Code. Simply open the [index.html](./resume/index.html) file in your text editor, and edit the content as needed. You can change the text, add or remove sections, or modify the styling using the [style.css](./resume/style.css) file.
 
-### Work Experience 
-The work experience section allows the user to list their previous work experience. To add your own work experience, simply copy and paste one of the work experience sections and edit the company name, dates of employment, job title, and job description. 
+### Credits
+This template was created by Paul Ndaboreheye. The profile image used in the template is from [icons8.com](https://icons8.com/).
 
-### Education 
-The education section allows the user to list their educational background. To add your own education information, simply copy and paste one of the education sections and edit the school name, dates of attendance, degree or certificate obtained, and any relevant accomplishments. 
-
-### Skills 
-The skills section allows the user to list their various skills. You can edit this section by adding or removing skills as needed.
-
-### Programming Skills 
-The programming skills section allows the user to list their programming skills. You can edit this section by adding or removing programming languages or tools as needed. 
-
-#### Credits:
-This template was created by me Paul Ndaboreheye in 2023. If you have any questions or comments, please feel free to contact me.
+### License
+This template is released under the [MIT License](./LICENSE). You are free to use, modify, and distribute this template for any purpose, as long as you include the original copyright and license notice in any copies or derivative works.
